@@ -1,0 +1,10 @@
+WINDOWS d
+REM this closes all tabs
+WINDOWS r
+DELAY 2000
+STRING notepad.exe
+REM this types notepad and btw u dont need this thing ""
+ENTER
+STRING helo i open notepad
+ENTER
+STRING thx for using me code
