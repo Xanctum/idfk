@@ -1,0 +1,4 @@
+REM this script will open powershell with the flipper zero badusb feature or any other badusb
+GUI r
+STRING"powershell"
+ENTER
